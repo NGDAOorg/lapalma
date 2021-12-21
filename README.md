@@ -1,3 +1,4 @@
+<link rel="shortcut icon" type="image/png" href="/images/A La Palma DAO.png">
 # La Palma DAO
 Ayuda directa, íntegra y transparente para los afectados por el volcán Cumbre Vieja de la Palma
 
